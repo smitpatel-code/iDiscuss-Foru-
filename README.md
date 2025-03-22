@@ -1,1 +1,1 @@
-# iDiscuss-Foru-
+# iDiscuss-Forum
