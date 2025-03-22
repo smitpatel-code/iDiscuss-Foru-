@@ -1,9 +1,9 @@
 # iDiscuss-Forum
-Overview
+#Overview
 
 iDiscuss is a dynamic online discussion forum built using PHP, allowing users to log in, post questions, and receive answers from other users. The platform fosters community engagement by enabling discussions on various topics in a structured and user-friendly manner.
 
-Features
+#Features
 
 User Authentication: Secure login and registration system.
 
